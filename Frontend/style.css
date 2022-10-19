@@ -1,0 +1,212 @@
+.flexbox-container{
+    display: flex;
+    background-color: wheat;
+    justify-content: space-evenly;
+    min-height: 98vh;
+    height: 200% !important;
+    
+
+}
+
+.company-duration{
+    display: flex;
+    flex-direction: row !important;
+    justify-content: space-between !important;
+    
+}
+
+
+.flexbox-framed{
+    display: flex;
+    height: 200% !important;
+    background-color: white !important;
+    min-width: 100vh !important;
+    max-width: 60%;
+    height: 200% !important;
+
+}
+
+.flexbox-vertframed{
+    flex-direction: column !important;
+    min-height: 40vh;
+    min-width: 90vh !important;
+    height: 200% !important;
+    
+}
+
+.flexbox-vert{
+    display: flex;
+}
+
+.line-spacer{
+    max-width: 5px !important;
+    width: 2.5px !important;
+    color: #4dd9ff;
+    margin-top: 10px;
+    margin-bottom: 30px;
+    background-color: #4dd9ff;
+    
+}
+
+
+.largepar{
+    height: 80%;
+    flex-direction: row !important;
+
+}
+
+.skills{
+    min-width: 30%;
+    color:black;
+}
+
+.subskills{
+    margin-top: 15px !important;
+    font-size: 20px;
+    min-width: 30%;
+    color:black;
+    font-family: Arial !important;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    display: inline-block;
+}
+
+.vertical-col-textsec{
+    min-height: 40%;
+    max-width: 70%;
+}
+.smallpar{
+    color: #4dd9ff;
+    background-color: #4dd9ff;
+    height: 10%;
+    min-height: 14%;
+    
+}
+
+.smallpart-text{
+    font-family: Arial !important;
+    color: white;
+    margin-top: 65px !important;
+    margin-bottom: 0% !important;
+    margin-left: 6%;
+    font-size: 110%;
+}
+
+.name{
+    color: black;
+    margin-left: 1.5%;
+    margin-top: 3%;
+    margin-bottom: 0%;
+    font-size: 200%;
+    font-family: Arial !important;
+}
+
+.minorpar{
+    background-color: crimson;
+    height: 10%;
+
+}
+
+.basictext{
+    color: black;
+    margin-left: 1.5%;
+    margin-top: 2%;
+    font-family: Arial !important;
+}
+
+a{
+    display: inline-block;
+}
+
+.primarysubject{
+    color: #4dd9ff;
+    margin-top: 1.5%;
+    margin-left: 13px;
+    margin-bottom: 0%;
+    font-size: 150%;
+    display: inline-block;
+    font-family: Arial !important;
+}
+
+.job{
+    font-size: 120% !important;
+    display: inline-block;
+    font-family: Arial !important;
+    margin-top: 0%;
+    margin-bottom: 0%;
+
+}
+
+.duration{
+    margin-bottom: 0%;
+    margin-top: 22px;
+    font-size: 120% !important;
+    display: inline-block;
+    font-family: Arial !important;
+    margin-right: 13px !important;
+}
+
+.position{
+    color: #4dd9ff;
+    font-size: 115% !important;
+    font-family: Arial !important;
+    margin-top: 1%;
+    margin-left: 5%;
+    margin-bottom: 0%;
+
+}
+
+.responsibilities{
+    font-size: 90% !important;
+    font-family: Arial !important;
+    margin-left: 5%;
+    margin-top: 1%;
+    margin-bottom: 0%;
+}
+
+.majorpar{
+    background-color: crimson;
+    height: 200%;
+}
+.flexbox-item{
+    display: flex;
+    margin: 5px;
+    margin-top: 0px;
+    min-width: 5vh;
+    background-color: white;
+
+}
+
+.curlyL{
+    display: inline-block;
+    color: #4dd9ff;
+    font-size: 120%;
+    font-family: Arial;
+    margin-left: 30px;
+    margin-right: 5px;
+
+}
+
+.curlyR{
+    display: inline-block;
+    color: #4dd9ff;
+    font-size: 120%;
+    font-family: Arial;
+    margin-left: 5px;
+    margin-right: 5px;
+
+}
+.flexbox-item-1 {
+    min-height: 80vh;
+    max-width: 94vh;
+}
+
+
+.flexbox-item-2 {
+    min-height: 200px;
+}
+
+.flexbox-item-3 {
+    min-height: 300px;
+}
+
